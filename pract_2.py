@@ -1,0 +1,1 @@
+print("bhai kuch to aa jaye jldi ")
